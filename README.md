@@ -67,18 +67,6 @@ Use `test_real.py` for real-image inference.
 python test_real.py
 ```
 
-Outputs include:
-
-- restored images
-- `inference_log.txt`
-- saved tensors (`result_tensor.pt`)
-
-## Notes
-
-- The current scripts contain absolute local paths (e.g., checkpoint and input directories). Please update these paths in `test.py` and `test_real.py` before running.
-- Seidel coefficients and PSF-related settings can be configured in the same scripts.
-- Naming in the manuscript may use **PDUN**, while repository/paper title uses **PRDUN**.
-
 
 
 ## License
