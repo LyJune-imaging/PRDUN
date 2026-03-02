@@ -84,8 +84,7 @@ python test_real.py
 ![Synthetic results](figs/synthetic_results.png)
 
 ### Aberration Correction on Real-World Data
-
-![Real-world results]([figs/real_world_results.png](https://github.com/LyJune-imaging/PRDUN/blob/main/Real_SP.png))
+![Synthetic results](https://github.com/LyJune-imaging/PRDUN/blob/main/Real_SP.png)
 
 ### PSF Estimation
 
