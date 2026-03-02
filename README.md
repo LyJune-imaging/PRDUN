@@ -83,13 +83,6 @@ python test_real.py
 ![Real results](https://github.com/LyJune-imaging/PRDUN/blob/main/Real_SP.png)
 
 
-> 📌 Please place your visualization images in the `figs/` directory:
-> ```text
-> figs/
-> ├── synthetic_results.png
-> ├── real_world_results.png
-> └── psf_estimation.png
-> ```
 
 ## Training
 
