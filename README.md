@@ -1,7 +1,7 @@
-# PRDUN: PSF-Aware Ring Convolution Deep Unfolding Network for Spatially Varying Aberration Correction
+# PRCDUN: PSF-Aware Ring Convolution Deep Unfolding Network for Spatially Varying Aberration Correction
 
 Official code repository for the paper:
-**PRDUN: PSF-Aware Ring Convolution Deep Unfolding Network for Spatially Varying Aberration Correction**.
+**PRCDUN: PSF-Aware Ring Convolution Deep Unfolding Network for Spatially Varying Aberration Correction**.
 
 ## Highlights
 
