@@ -79,16 +79,9 @@ python test_real.py
 
 ## Results
 
-### Aberration Correction on Synthetic Data
-
-![Synthetic results](figs/synthetic_results.png)
-
 ### Aberration Correction on Real-World Data
-![Synthetic results](https://github.com/LyJune-imaging/PRDUN/blob/main/Real_SP.png)
+![Real results](https://github.com/LyJune-imaging/PRDUN/blob/main/Real_SP.png)
 
-### PSF Estimation
-
-![PSF estimation results](figs/psf_estimation.png)
 
 > 📌 Please place your visualization images in the `figs/` directory:
 > ```text
