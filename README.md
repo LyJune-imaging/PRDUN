@@ -86,8 +86,4 @@ python test_real.py
 
 ## Training
 
-> ⚠️ **Note:** The training code will be released upon acceptance of the paper. Stay tuned!
-
-## License
-
-Please add your preferred open-source license (e.g., MIT, Apache-2.0) to this repository.
+> ⚠️ **Note:** The training code will be released upon acceptance of the paper.
